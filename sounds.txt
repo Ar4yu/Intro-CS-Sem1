@@ -1,0 +1,10 @@
+9
+meow 1 wav/110011__tuberatanka__cat-meow.wav
+magic 6 wav/178318__robinhood76__04099-magic-string-spell.wav
+gong 12 wav/266566__gowlermusic__gong-hit.wav
+applause 6 wav/277022__sandermotions__applause-1.wav
+crickets 0.5 wav/337435__ev-dawg__cricket.wav
+yeah 2 wav/345086__metrostock99__oh-yeah-low-4.wav
+beat-n-bass 3 wav/448384__tec-studio__beat-n-bass-128-bpm.wav
+whistle 8 wav/482881__brsjak__cartoon-whistle.wav
+trombone 3 wav/73581__benboncan__sad-trombone.wav

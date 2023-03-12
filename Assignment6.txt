@@ -1,0 +1,11 @@
+Board.java
+//Aaryaman Jaising
+//10/24/22
+//Program to generate board and display board for minesweeper
+// Time 1 and a half hour. Bugs: The logic I was using to generate the board was not working for the first and last rows and columns to count the number of bombs around it, there would be a runtime error because of the array limit being exceeded. So to fix that I made the board 2 columns and 2 rows larger, assigned positions with bombs and then counted the bombs in all rows and columns besides the first and last rows and columns to which I assigned 0. Then using a loop I extracted the board from the larger board.
+
+Minesweeeper.java
+//Aaryaman Jaising
+//10/25/22
+//Program to create the game minesweeper using the board.java program methods and taking in command line arguments. Also reusing checkinput to validate the input, using banner to output welcome message. 
+//Time 1 and half hour. Bugs, I found it really useful to make the second board a string type just for output and displaying, and the board with an int to keep referencing to check if it has bombs or which integer is there. Also the checkwin function I was not sure so I thought I could just equate the number of points selected in the output board which are not bombs to the number of blocks that are not bombs in the reference board.

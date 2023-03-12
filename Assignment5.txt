@@ -1,0 +1,11 @@
+Menu.java
+//Aaryaman Jaising
+//10/20/22
+//program to make a menu which lists out options that are input in and then asks user to choose one of the options.
+//Time:2 hours. I had a lot of trouble making a while loop for a bit and then it struck me to set up a counter instead of it being a condition which has isInteger or <0 or something along the lines. That simplified the while loop.  
+
+Patterns.java
+//Aaryaman Jaising
+//10/20/22
+//Program to draw certain shapes including triangle, reverse, diamond and block asking the user to choose.
+// Time 40 minutes. Diamond was a bit tricky but the hint of splitting it into two triangles was helpful. 
