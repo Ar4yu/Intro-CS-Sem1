@@ -1,0 +1,17 @@
+Sound
+//Aaryaman Jaising
+//11/1/22
+//Program to make constructor for variable sound with methods for accessors and method to play using stdaudio
+//Time 30 minutes, Bugs: had some trouble getting the wav file in the same directory
+
+soundlibrary
+//Aaryaman Jaising
+//11/1/22
+//Program to make a constructor for an array of sounds (soundlibrary), function to list the songs in the library, function to get number of sounds, function to play a sound.
+// Time 1 hour, Bugs: Had some trouble reading in the values, then a problem was that I did not assign a length to the array of soundlibrary which cause a nullpoint error.
+
+SoundBoard
+//Aaryaman Jaising
+//11/2/22
+//Program to reuse menu function for user to select sound to play from soundlibrary
+//Time:40 minutes, Bugs: Had to change old menu code because it would not work with quit, so TA suggested different while loop and I thought I could use recursion to get it to run again

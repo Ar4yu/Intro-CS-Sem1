@@ -1,0 +1,6 @@
+Aaryaman Jaising
+4 hours
+Bugs: Increasing size, I initially used size 12 for the array but thought it would be better to keep it flexible so made a seperate function for that
+Something unusual was when I ran Restaurant App, and tried to search by name, by entering 1, it took like 30 secoonds which was really surprising, I'm guessing it might be because the list of restaurants is long, or maybe something i've done in my code, could not find it though.
+I know I might lose points for that but was wondering if you could find the issue, I thought maybe it could be that the increase array only increases by one, so it runs a lot more times than if you would double it.
+It could also just be an issue with my laptop not sure, but it did consistently run correctly, just slow.
